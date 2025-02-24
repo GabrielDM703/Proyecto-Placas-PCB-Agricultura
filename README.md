@@ -64,6 +64,7 @@ Para las demas perforaciones se hace uso de una broca de 1.2mm.
 
 #### Paso2: Impresión láser de las pistas y etiquetas
 En la carpeta Proteus de este repositorio se pueden encontrar los PDFs con las pistas de la placa las cuales se deben imprimir en **láser** en papel transfer que se pueden comprar en tiendas de electrónica. También esta el PDF para imprimir en láser preferiblemente las etiquetas en papel sticker. 
+
 <img src="Imagenes/Impresion_Laser.jpeg" alt="200" width="200"/>
 
 #### Paso3: Transferencia de las pistas a la placa PCB
