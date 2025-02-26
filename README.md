@@ -161,7 +161,7 @@ Para su compilación de forma correcta hay que asegurarse de los siguientes aspe
 #### 2.3 Se debe incluir librerías como:
 -	Descargar y añadir el .zip para la librería del sensor de humo MQ135 (Guardar el .rar en la carpeta Librerías de Arduino en Documentos): [https://github.com/GeorgK/MQ135]
 - Instalar las siguientes librerías:
-<img src="Imagenes/Libreries.jpg" alt=400" width="400"/>
+<img src="Imagenes/Libreries.jpg" alt="500" width="500"/>
 
 #### 2.4 Subir el código a través de **Arduino IDE** o **PlatformIO**.
 
@@ -181,7 +181,7 @@ Los datos pueden ser enviados vía **GSM (SIM800L)** o registrados en un servido
 
 ## 📖 Glosario
 
-### 🔹RouterCNC
+### 🔹 RouterCNC
 Un Router CNC es una máquina de control numérico computarizado (CNC) utilizada para cortar, grabar y mecanizar materiales como madera, acrílico, aluminio y plásticos con alta precisión.
 
 ### 🔹 Pull-up
