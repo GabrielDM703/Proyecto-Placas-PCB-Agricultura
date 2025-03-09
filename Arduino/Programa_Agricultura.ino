@@ -36,7 +36,7 @@ byte responseBuffer[7];
 #define DE_RE_PIN 15              // DE y RE conectados al mismo pin 15
 #define RX_PIN 17                 // RO del RS485 en el pin 17
 #define TX_PIN 16                 // DI del RS485 en el pin 16
-#define MQ135_PIN 35              // Datos del MQ135 en el pin 35
+#define MQ135_PIN 14              // Datos del MQ135 en el pin 35
 #define UV_PIN 33                 // Datos del sensor UV en el pin 33
 #define WATER_LEVEL_PIN 13        // Sensor de nivel en el pin 13
 #define FLOW_SENSOR_PIN 32        // Sensor de flujo en el pin 32
